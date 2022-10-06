@@ -284,3 +284,12 @@ header{
 .image a:hover{
     background-color:rgb(53, 52, 52);
 }
+.column {
+    width: 100%;
+  }
+  
+  @media (min-width: 600px) {
+    .column {
+      width: 50%;
+    }
+  }
