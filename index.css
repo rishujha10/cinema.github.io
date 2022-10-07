@@ -290,4 +290,7 @@ header{
         width:100%;
         position: absolute;
     }
+    #navbar{
+        position: absolute;
+    }
 }
