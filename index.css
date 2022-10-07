@@ -61,7 +61,7 @@ header{
     width: 100%;
     height: 700px;
     /* opacity: 0.9; */
-    filter: blur(3px);
+    filter: blur(2px);
     margin-top: 26px;
 }
 
